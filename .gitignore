@@ -1,0 +1,7 @@
+.idea
+*.log
+*.mdmp
+target/
+allure-results/
+build/
+*.iml
